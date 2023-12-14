@@ -8,7 +8,7 @@ All branches have 2 project directories "nextjs-dashboard (final-example latest-
     This example is final and official example by NextJS Developers.
 
 1.nextjs-dashboard (starting-example latest-v14):
-    This example is learning material made by me.
+    This example is learning material made by me (Talha).
 
 master:
 Basic Structure
